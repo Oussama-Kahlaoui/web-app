@@ -1,0 +1,33 @@
+footer{
+    background-color: rgb(173, 192, 192);
+    text-align: center;
+    height: 100px;
+}
+/* .span1{
+    color: red;
+
+} */
+
+iframe{
+    background-color: aquamarine;
+}
+a{
+    color: red;
+  
+}
+#FH1{
+    color: brown;
+    font-size: 74px;
+}
+/* *{
+    color: salmon;
+} */
+ul li{
+    font-size: 50px;
+}
+main span {
+    color: aqua;
+}
+footer .ft-back{
+    color: rgb(96, 15, 171);
+}
